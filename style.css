@@ -1,12 +1,18 @@
 h1 {
-    color: Green;
+    color: #EF9C57;
 }
 
-
 .container{
-    background-color: Maroon;
+    background-color: #D2E7F0;
 }
 
 body {
-      background-color: Navy;
+      background-color: #D2F0EA;
+}
+li {
+  display: inline;
+}
+
+.login {
+float: right;
 }
