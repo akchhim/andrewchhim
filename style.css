@@ -9,10 +9,23 @@ h1 {
 body {
       background-color: #D2F0EA;
 }
+
 li {
   display: inline;
 }
 
+.login a:active {
+  top: 5px
+}
+
+.login a {
+cursor: pointer;
+margin-right: 30px
+padding: 8px 18px;
+border-style: ridge;
+position: relative;
+}
+
 .login {
-float: right;
+  float: right;
 }
