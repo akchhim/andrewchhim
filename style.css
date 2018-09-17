@@ -29,3 +29,15 @@ position: relative;
 .login {
   float: right;
 }
+
+#page1 .container {
+  background-image: url(https://images.pexels.com/photos/6466/green-bokeh-background.jpg?cs=srgb&dl=background-bokeh-green-6466.jpg&fm=jpg);
+}
+
+#page2 .container {
+  background-image: url(https://cdn.pixabay.com/photo/2018/03/21/10/01/desktop-3246124_960_720.jpg);
+}
+
+#page3 .container {
+  background-image: url(http://res.freestockphotos.biz/pictures/9/9061-abstract-orange-and-red-background-pv.jpg);
+}
